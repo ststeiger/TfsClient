@@ -1,0 +1,71 @@
+﻿
+
+
+Framework 4.5...
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\ReferenceAssemblies\v2.0
+
+
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v2.0
+
+
+
+
+Collection: corfoundation\COR-DEV-Produktion
+ Team Project: COR-InventoryManagement
+ Team Project: COR-FM-Suite
+ Team Project: COR-Basic
+ Team Project: Post
+ Team Project: SwissRE
+ Team Project: Tools
+ Team Project: COR-Library
+ Team Project: StadtZuerich
+ Team Project: Portal-DMS
+ Team Project: Raiffeisen
+ Team Project: SauterFM
+ Team Project: COR-Basic-DEV
+ Team Project: BKB
+
+
+ --- Press any key to continue ---
+
+
+File: $/BKB/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/BKB/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/BKB/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/COR-Basic/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/COR-Basic/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/COR-Basic/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/COR-Basic-DEV/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/COR-Basic-DEV/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/COR-Basic-DEV/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/COR-FM-Suite/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/COR-FM-Suite/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/COR-FM-Suite/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/COR-InventoryManagement/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/COR-InventoryManagement/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/COR-InventoryManagement/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/Portal-DMS/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/Portal-DMS/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/Portal-DMS/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/Post/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/Post/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/Post/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/Raiffeisen/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/Raiffeisen/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/Raiffeisen/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/SauterFM/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/SauterFM/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/SauterFM/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/StadtZuerich/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/StadtZuerich/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/StadtZuerich/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/SwissRE/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/SwissRE/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/SwissRE/BuildProcessTemplates/UpgradeTemplate.xaml
+File: $/Tools/BuildProcessTemplates/DefaultTemplate.xaml
+File: $/Tools/BuildProcessTemplates/LabDefaultTemplate.xaml
+File: $/Tools/BuildProcessTemplates/UpgradeTemplate.xaml
+
+
+ --- Press any key to continue ---
+
